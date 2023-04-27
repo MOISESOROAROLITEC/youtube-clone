@@ -1,0 +1,24 @@
+@font-face {
+	font-display: block;
+	font-family: "bootstrap-icons";
+	src: url("../dist/fonts/bootstrap-icons/fonts/bootstrap-icons.woff") format("woff"),
+		url("../dist/fonts/bootstrap-icons/fonts/bootstrap-icons.woff2") format("woff2");
+}
+
+.ytlogo {
+	color: red;
+	/* font-size: 1.3rem; */
+	margin: 5px 0 5px 12px;
+	width: 160px;
+}
+
+.ytbutton {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+@media (min-width: 768px) .navbar-expand-md {
+	flex-wrap: nowrap;
+	justify-content: flex-start;
+}

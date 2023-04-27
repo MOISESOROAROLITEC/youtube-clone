@@ -1,0 +1,3 @@
+9. Développer un clone de YouTube en JavaScript
+Il est très simple d’intégrer une vidéo dans vos pages HTML, vous en avez peut-être deja vu dans mes articles. Mais il est aussi possible d’utiliser l’API de YouTube pour effectuer des recherches et présenter les résultats en HTML. Ce projet peut s’avérer un peu plus compliqué que les autres mais il sera parfait pour vous faire comprendre comment fonctionnent les API et comment effectuer des requêtes.
+

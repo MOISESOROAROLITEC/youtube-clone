@@ -1,0 +1,38 @@
+.page-title {
+	color: red !important;
+	font-weight: bold;
+}
+
+.myButton {
+	margin-top: 200px;
+}
+
+.videos {
+	background: #f5f5f57d;
+	/* width: 800px; */
+	margin: 80px auto;
+	transition: 0.5s;
+}
+
+iframe#ytplayer {
+	margin: 0px !important;
+	background: whitesmoke;
+	border-radius: 20px;
+	padding: 3px;
+	height: 200px;
+}
+
+.videosContainer {
+	margin: 0px 0px;
+	max-width: 100%;
+	/* background: red; */
+}
+
+/* ####################################################" */
+.btn-check:active+.btn-outline-success:focus,
+.btn-check:checked+.btn-outline-success:focus,
+.btn-outline-success.active:focus,
+.btn-outline-success.dropdown-toggle.show:focus,
+.btn-outline-success:focus {
+	box-shadow: none;
+}
